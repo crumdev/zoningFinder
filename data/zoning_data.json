@@ -1,0 +1,405 @@
+{
+	"type" : "FeatureCollection",
+	"features" : [{
+			"type" : "Feature",
+			"properties" : {
+				"FID" : 9639,
+				"OBJECTID" : 10012,
+				"HOUSENO" : 9224,
+				"HAFHOUSE" : " ",
+				"APT" : " ",
+				"DIR" : " ",
+				"STRNAME" : "PAGODA",
+				"TYPE" : "DR",
+				"ZIPCODE" : "40229",
+				"UPDATED_ON" : "2007-11-05T00:00:00.000Z",
+				"ZONING_COD" : "R4",
+				"X_COORD" : 1239953,
+				"Y_COORD" : 226090,
+				"MUNI_NAME" : "LOUISVILLE",
+				"NH_NAME" : " ",
+				"CEN_TRACT" : "011707",
+				"BLOCKGROUP" : "011707-3"
+			},
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-85.64192290722582, 38.11254878846748]
+			}
+		}, {
+			"type" : "Feature",
+			"properties" : {
+				"FID" : 36816,
+				"OBJECTID" : 37020,
+				"HOUSENO" : 9224,
+				"HAFHOUSE" : " ",
+				"APT" : " ",
+				"DIR" : " ",
+				"STRNAME" : "DIXIE",
+				"TYPE" : "HWY",
+				"ZIPCODE" : "40272",
+				"UPDATED_ON" : "2007-11-05T00:00:00.000Z",
+				"ZONING_COD" : "C1",
+				"X_COORD" : 1177951,
+				"Y_COORD" : 229619,
+				"MUNI_NAME" : "LOUISVILLE",
+				"NH_NAME" : " ",
+				"CEN_TRACT" : "012409",
+				"BLOCKGROUP" : "012409-3"
+			},
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-85.85760069681695, 38.11946745369839]
+			}
+		}, {
+			"type" : "Feature",
+			"properties" : {
+				"FID" : 58281,
+				"OBJECTID" : 58896,
+				"HOUSENO" : 9224,
+				"HAFHOUSE" : " ",
+				"APT" : " ",
+				"DIR" : " ",
+				"STRNAME" : "FAIRGROUND",
+				"TYPE" : "RD",
+				"ZIPCODE" : "40291",
+				"UPDATED_ON" : "2007-11-05T00:00:00.000Z",
+				"ZONING_COD" : "R4",
+				"X_COORD" : 1256032,
+				"Y_COORD" : 244975,
+				"MUNI_NAME" : "LOUISVILLE",
+				"NH_NAME" : " ",
+				"CEN_TRACT" : "011506",
+				"BLOCKGROUP" : "011506-4"
+			},
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-85.58699509865372, 38.1650573577654]
+			}
+		}, {
+			"type" : "Feature",
+			"properties" : {
+				"FID" : 111436,
+				"OBJECTID" : 111952,
+				"HOUSENO" : 9224,
+				"HAFHOUSE" : " ",
+				"APT" : " ",
+				"DIR" : " ",
+				"STRNAME" : "DONERAIL",
+				"TYPE" : "WAY",
+				"ZIPCODE" : "40272",
+				"UPDATED_ON" : "2007-11-05T00:00:00.000Z",
+				"ZONING_COD" : "R4",
+				"X_COORD" : 1175136,
+				"Y_COORD" : 229051,
+				"MUNI_NAME" : "LOUISVILLE",
+				"NH_NAME" : " ",
+				"CEN_TRACT" : "012409",
+				"BLOCKGROUP" : "012409-1"
+			},
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-85.86734850611029, 38.11777314782242]
+			}
+		}, {
+			"type" : "Feature",
+			"properties" : {
+				"FID" : 118624,
+				"OBJECTID" : 119223,
+				"HOUSENO" : 9224,
+				"HAFHOUSE" : " ",
+				"APT" : " ",
+				"DIR" : " ",
+				"STRNAME" : "OMAR KHAYYAM",
+				"TYPE" : "BLVD",
+				"ZIPCODE" : "40272",
+				"UPDATED_ON" : "2007-11-05T00:00:00.000Z",
+				"ZONING_COD" : "R4",
+				"X_COORD" : 1174275,
+				"Y_COORD" : 229402,
+				"MUNI_NAME" : "LOUISVILLE",
+				"NH_NAME" : " ",
+				"CEN_TRACT" : "012409",
+				"BLOCKGROUP" : "012409-1"
+			},
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-85.87036264950382, 38.11869409703267]
+			}
+		}, {
+			"type" : "Feature",
+			"properties" : {
+				"FID" : 160308,
+				"OBJECTID" : 161708,
+				"HOUSENO" : 9224,
+				"HAFHOUSE" : " ",
+				"APT" : " ",
+				"DIR" : " ",
+				"STRNAME" : "WESTPORT",
+				"TYPE" : "RD",
+				"ZIPCODE" : "40242",
+				"UPDATED_ON" : "2007-11-05T00:00:00.000Z",
+				"ZONING_COD" : "C1",
+				"X_COORD" : 1258709,
+				"Y_COORD" : 288205,
+				"MUNI_NAME" : "ROLLING HILLS",
+				"NH_NAME" : " ",
+				"CEN_TRACT" : "010006",
+				"BLOCKGROUP" : "010006-2"
+			},
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-85.57985945632188, 38.28386195689713]
+			}
+		}, {
+			"type" : "Feature",
+			"properties" : {
+				"FID" : 182660,
+				"OBJECTID" : 183682,
+				"HOUSENO" : 9224,
+				"HAFHOUSE" : " ",
+				"APT" : " ",
+				"DIR" : " ",
+				"STRNAME" : "CAVALCADE",
+				"TYPE" : "AVE",
+				"ZIPCODE" : "40272",
+				"UPDATED_ON" : "2007-11-05T00:00:00.000Z",
+				"ZONING_COD" : "R4",
+				"X_COORD" : 1173948,
+				"Y_COORD" : 229342,
+				"MUNI_NAME" : "LOUISVILLE",
+				"NH_NAME" : " ",
+				"CEN_TRACT" : "012409",
+				"BLOCKGROUP" : "012409-1"
+			},
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-85.87149414451903, 38.11851434870111]
+			}
+		}, {
+			"type" : "Feature",
+			"properties" : {
+				"FID" : 191506,
+				"OBJECTID" : 192136,
+				"HOUSENO" : 9224,
+				"HAFHOUSE" : " ",
+				"APT" : " ",
+				"DIR" : " ",
+				"STRNAME" : "PENSIVE",
+				"TYPE" : "LN",
+				"ZIPCODE" : "40272",
+				"UPDATED_ON" : "2007-11-05T00:00:00.000Z",
+				"ZONING_COD" : "R4",
+				"X_COORD" : 1173329,
+				"Y_COORD" : 229322,
+				"MUNI_NAME" : "LOUISVILLE",
+				"NH_NAME" : " ",
+				"CEN_TRACT" : "012409",
+				"BLOCKGROUP" : "012409-1"
+			},
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-85.8736463646986, 38.11843006401099]
+			}
+		}, {
+			"type" : "Feature",
+			"properties" : {
+				"FID" : 208599,
+				"OBJECTID" : 209553,
+				"HOUSENO" : 9224,
+				"HAFHOUSE" : " ",
+				"APT" : " ",
+				"DIR" : " ",
+				"STRNAME" : "RIVER TRAIL",
+				"TYPE" : "DR",
+				"ZIPCODE" : "40229",
+				"UPDATED_ON" : "2013-05-30T00:00:00.000Z",
+				"ZONING_COD" : "R5",
+				"X_COORD" : 1236241,
+				"Y_COORD" : 224766,
+				"MUNI_NAME" : "LOUISVILLE",
+				"NH_NAME" : " ",
+				"CEN_TRACT" : "011707",
+				"BLOCKGROUP" : "011707-1"
+			},
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-85.65475136146793, 38.108758920689866]
+			}
+		}, {
+			"type" : "Feature",
+			"properties" : {
+				"FID" : 255266,
+				"OBJECTID" : 256791,
+				"HOUSENO" : 9224,
+				"HAFHOUSE" : " ",
+				"APT" : " ",
+				"DIR" : " ",
+				"STRNAME" : "LANTANA",
+				"TYPE" : "DR",
+				"ZIPCODE" : "40229",
+				"UPDATED_ON" : "2007-11-05T00:00:00.000Z",
+				"ZONING_COD" : "R4",
+				"X_COORD" : 1240552,
+				"Y_COORD" : 226104,
+				"MUNI_NAME" : "LOUISVILLE",
+				"NH_NAME" : " ",
+				"CEN_TRACT" : "011707",
+				"BLOCKGROUP" : "011707-3"
+			},
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-85.63984288537489, 38.112614328667256]
+			}
+		}, {
+			"type" : "Feature",
+			"properties" : {
+				"FID" : 254527,
+				"OBJECTID" : 255473,
+				"HOUSENO" : 9224,
+				"HAFHOUSE" : " ",
+				"APT" : " ",
+				"DIR" : " ",
+				"STRNAME" : "VEVEY",
+				"TYPE" : "RD",
+				"ZIPCODE" : "40291",
+				"UPDATED_ON" : "2007-11-05T00:00:00.000Z",
+				"ZONING_COD" : "R4",
+				"X_COORD" : 1256042,
+				"Y_COORD" : 247329,
+				"MUNI_NAME" : "LOUISVILLE",
+				"NH_NAME" : " ",
+				"CEN_TRACT" : "011110",
+				"BLOCKGROUP" : "011110-3"
+			},
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-85.5870796009368, 38.17152078943291]
+			}
+		}, {
+			"type" : "Feature",
+			"properties" : {
+				"FID" : 284418,
+				"OBJECTID" : 285887,
+				"HOUSENO" : 9224,
+				"HAFHOUSE" : " ",
+				"APT" : " ",
+				"DIR" : " ",
+				"STRNAME" : "WELLINGTON HILL",
+				"TYPE" : "CT",
+				"ZIPCODE" : "40291",
+				"UPDATED_ON" : "2007-11-05T00:00:00.000Z",
+				"ZONING_COD" : "R4",
+				"X_COORD" : 1254921,
+				"Y_COORD" : 236776,
+				"MUNI_NAME" : "LOUISVILLE",
+				"NH_NAME" : " ",
+				"CEN_TRACT" : "011510",
+				"BLOCKGROUP" : "011510-3"
+			},
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-85.590446068022, 38.14250040947265]
+			}
+		}, {
+			"type" : "Feature",
+			"properties" : {
+				"FID" : 318213,
+				"OBJECTID" : 319647,
+				"HOUSENO" : 9224,
+				"HAFHOUSE" : " ",
+				"APT" : " ",
+				"DIR" : " ",
+				"STRNAME" : "MARLBORO",
+				"TYPE" : "CIR",
+				"ZIPCODE" : "40222",
+				"UPDATED_ON" : "2007-11-05T00:00:00.000Z",
+				"ZONING_COD" : "R4",
+				"X_COORD" : 1258267,
+				"Y_COORD" : 269841,
+				"MUNI_NAME" : "HURSTBOURNE",
+				"NH_NAME" : " ",
+				"CEN_TRACT" : "010701",
+				"BLOCKGROUP" : "010701-1"
+			},
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-85.58047327304125, 38.23342149223471]
+			}
+		}, {
+			"type" : "Feature",
+			"properties" : {
+				"FID" : 370597,
+				"OBJECTID" : 371872,
+				"HOUSENO" : 9224,
+				"HAFHOUSE" : " ",
+				"APT" : " ",
+				"DIR" : " ",
+				"STRNAME" : "CEDAR CREEK",
+				"TYPE" : "RD",
+				"ZIPCODE" : "40291",
+				"UPDATED_ON" : "2007-11-05T00:00:00.000Z",
+				"ZONING_COD" : "R4",
+				"X_COORD" : 1250000,
+				"Y_COORD" : 225504,
+				"MUNI_NAME" : "LOUISVILLE",
+				"NH_NAME" : " ",
+				"CEN_TRACT" : "011703",
+				"BLOCKGROUP" : "011703-1"
+			},
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-85.60697610908312, 38.11135101597417]
+			}
+		}, {
+			"type" : "Feature",
+			"properties" : {
+				"FID" : 380611,
+				"OBJECTID" : 389947,
+				"HOUSENO" : 9224,
+				"HAFHOUSE" : " ",
+				"APT" : " ",
+				"DIR" : " ",
+				"STRNAME" : "FEATHERBELL",
+				"TYPE" : "BLVD",
+				"ZIPCODE" : "40059",
+				"UPDATED_ON" : "2009-11-10T00:00:00.000Z",
+				"ZONING_COD" : "PVD",
+				"X_COORD" : 1262696,
+				"Y_COORD" : 302262,
+				"MUNI_NAME" : "LOUISVILLE",
+				"NH_NAME" : " ",
+				"CEN_TRACT" : "010303",
+				"BLOCKGROUP" : "010303-2"
+			},
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-85.56666771246881, 38.32261394157615]
+			}
+		}, {
+			"type" : "Feature",
+			"properties" : {
+				"FID" : 376601,
+				"OBJECTID" : 378141,
+				"HOUSENO" : 9224,
+				"HAFHOUSE" : " ",
+				"APT" : " ",
+				"DIR" : " ",
+				"STRNAME" : "CAMRYN",
+				"TYPE" : "CT",
+				"ZIPCODE" : "40272",
+				"UPDATED_ON" : "2008-11-07T00:00:00.000Z",
+				"ZONING_COD" : "R7",
+				"X_COORD" : 1175599,
+				"Y_COORD" : 229854,
+				"MUNI_NAME" : "LOUISVILLE",
+				"NH_NAME" : " ",
+				"CEN_TRACT" : "012409",
+				"BLOCKGROUP" : "012409-3"
+			},
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-85.86578880312088, 38.11999942869794]
+			}
+		}
+	]
+}
